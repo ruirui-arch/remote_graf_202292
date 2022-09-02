@@ -1,0 +1,13 @@
+expname: carla_256
+data:
+  imsize: 256
+  datadir: /gdata1/zhangkd/NeRF/carla/images
+  type: carla
+  radius: 10.
+  near: 7.5
+  far: 12.5
+  fov: 30.0
+training:
+  outdir: /gdata2/zhangkd/nerf/graf/carla_256
+nerf:
+  N_importance: 0

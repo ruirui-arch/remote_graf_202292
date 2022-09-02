@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="ypb">
+    <serverData>
+      <paths name="ypb">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/newJob/nerf/graf-main" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath path="/newJob/nerf/graf-main/animations" />
+            <excludedPath path="/newJob/nerf/graf-main/checkpoints" />
+            <excludedPath path="/newJob/nerf/graf-main/data" />
+            <excludedPath path="/newJob/nerf/graf-main/external" />
+            <excludedPath path="/newJob/nerf/graf-main/results" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>

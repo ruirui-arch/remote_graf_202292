@@ -1,0 +1,15 @@
+carla:
+  64: /ghome/zhangkd/newJob/nerf/graf-main/checkpoints/clara/carla_64.pt
+  128: /ghome/zhangkd/newJob/nerf/graf-main/checkpoints/clara/carla_128.pt
+  256: /ghome/zhangkd/newJob/nerf/graf-main/checkpoints/clara/carla_256.pt
+  512: /ghome/zhangkd/newJob/nerf/graf-main/checkpoints/clara/carla_512.pt
+celebA:
+  64: /ghome/zhangkd/newJob/nerf/graf-main/checkpoints/celebA/celebA_64.pt
+  128: /ghome/zhangkd/newJob/nerf/graf-main/checkpoints/celebA/celebA_128.pt
+celebA_hq:
+  256: /ghome/zhangkd/newJob/nerf/graf-main/checkpoints/celebA_hq/celebA_hq_256.pt
+  512: /ghome/zhangkd/newJob/nerf/graf-main/checkpoints/celebA_hq/celebA_hq_512.pt
+cats:
+  64: /ghome/zhangkd/newJob/nerf/graf-main/checkpoints/cats/cats_64.pt
+cub:
+  64: /ghome/zhangkd/newJob/nerf/graf-main/checkpoints/cub/cub_64.pt
